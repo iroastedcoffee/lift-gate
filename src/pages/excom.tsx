@@ -1,0 +1,194 @@
+// Auto-generated from WordPress
+export default function Post_excom() {
+  return (
+    <article className="max-w-3xl mx-auto px-6 py-12">
+      <header className="mb-8">
+        <h1 className="text-3xl font-bold tracking-tight">EXCOM</h1>
+        <time className="text-sm text-gray-500">2022-05-15</time>
+      </header>
+      <div className="prose prose-lg" dangerouslySetInnerHTML={{ __html: `<h2>2025-2026 Executive Committee</h2>
+<table style="width: 100.072%;height: 231px">
+<tbody>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Position</td>
+<td style="width: 36.0289%;height: 21px">Person</td>
+<td style="width: 36.0289%;height: 21px">Contact Information</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Chair</td>
+<td style="width: 36.0289%">Emad Farag</td>
+<td style="width: 36.0289%">e&#110;&#x66;&#x61;r&#97;&#103;&#x40;&#x69;e&#101;&#101;&#x2e;&#x6f;r&#103;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">First Vice-Chair</td>
+<td style="width: 36.0289%">Anisha Apte</td>
+<td style="width: 36.0289%">&#x61;&#110;i&#x73;&#104;a&#x5f;&#x61;&#112;&#x74;&#x65;&#64;i&#x65;&#101;e&#x2e;&#x6f;&#114;&#x67;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Second Vice-Chair</td>
+<td style="width: 36.0289%">Alfredo Tan</td>
+<td style="width: 36.0289%">&#116;&#97;&#x6e;&#64;&#102;&#x64;&#x75;&#46;&#101;&#x64;&#x75;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Junior Past Chair</td>
+<td style="width: 36.0289%">Hong Zhao</td>
+<td style="width: 36.0289%">&#x7a;&#104;&#x61;&#111;&#64;&#x66;&#100;u&#x2e;&#101;&#x64;&#x75;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Senior Past Chair</td>
+<td style="width: 36.0289%;height: 21px">Ajay K. Poddar</td>
+<td style="width: 36.0289%;height: 21px">akpoddar&#64;ieee&#46;org</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Secretary</td>
+<td style="width: 36.0289%;height: 21px">Avimanyou Vatsa</td>
+<td style="width: 36.0289%;height: 21px">&#97;&#118;&#x61;&#x74;&#115;&#97;&#x40;&#x66;&#100;&#117;&#x2e;&#x65;&#100;&#117;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Treasurer</td>
+<td style="width: 36.0289%;height: 21px">Weitian Wang</td>
+<td style="width: 36.0289%;height: 21px"></td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Member at Large</td>
+<td style="width: 36.0289%;height: 21px">Michael Miller</td>
+<td style="width: 36.0289%;height: 21px"></td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Member at Large</td>
+<td style="width: 36.0289%">Adriaan J. van Wijngaarden</td>
+<td style="width: 36.0289%">&#97;&#x76;w&#64;&#x69;&#101;&#x65;e&#46;&#x6f;r&#x67;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Member at Large</td>
+<td style="width: 36.0289%;height: 21px">Yu-Dong Yao</td>
+<td style="width: 36.0289%;height: 21px">&#x79;&#x75;&#x2d;&#x64;&#x6f;&#x6e;&#103;&#46;&#121;&#97;o&#64;st&#x65;&#x76;&#x65;&#x6e;&#x73;&#x2e;&#101;&#100;&#117;</td>
+</tr>
+</tbody>
+</table>
+<h2>2023-2024 Executive Committee</h2>
+<table style="width: 100.072%;height: 231px">
+<tbody>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Position</td>
+<td style="width: 36.0289%;height: 21px">Person</td>
+<td style="width: 36.0289%;height: 21px">Contact Information</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Chair</td>
+<td style="width: 36.0289%">Hong Zhao</td>
+<td style="width: 36.0289%">&#122;h&#x61;o&#x40;f&#x64;&#117;&#x2e;&#101;&#x64;&#117;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">First Vice-Chair</td>
+<td style="width: 36.0289%">Emad Farag</td>
+<td style="width: 36.0289%">&#x65;&#x6e;&#x66;&#x61;&#x72;&#x61;&#x67;&#x40;&#x69;&#x65;&#x65;&#x65;&#x2e;&#x6f;&#114;&#103;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Second Vice-Chair</td>
+<td style="width: 36.0289%">Anisha Apte</td>
+<td style="width: 36.0289%">&#97;n&#x69;s&#x68;a&#x5f;a&#x70;t&#x65;&#64;&#x69;&#101;&#x65;&#101;&#x2e;&#111;&#x72;&#103;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Junior Past Chair</td>
+<td style="width: 36.0289%">Ajay K. Poddar</td>
+<td style="width: 36.0289%">&#x61;&#107;&#x70;&#x6f;&#100;&#x64;&#97;r&#x40;&#105;e&#x65;&#101;&#46;&#x6f;&#114;g</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Senior Past Chair</td>
+<td style="width: 36.0289%;height: 21px">Yu-Dong Yao</td>
+<td style="width: 36.0289%;height: 21px">y&#117;&#x2d;&#x64;o&#110;&#103;&#x2e;&#x79;a&#111;&#64;&#x73;&#x74;e&#118;&#x65;&#x6e;&#x73;&#46;&#101;&#x64;&#x75;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Secretary</td>
+<td style="width: 36.0289%;height: 21px">Adriaan J. van Wijngaarden</td>
+<td style="width: 36.0289%;height: 21px">&#97;&#x76;w&#x40;i&#101;&#x65;&#101;&#x2e;o&#114;&#x67;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Treasurer</td>
+<td style="width: 36.0289%;height: 21px">Avimanyou Vatsa</td>
+<td style="width: 36.0289%;height: 21px">&#97;&#x76;a&#x74;&#x73;&#97;&#x40;f&#x64;&#x75;&#46;&#x65;d&#x75;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Member at Large</td>
+<td style="width: 36.0289%;height: 21px">Naresh Chand</td>
+<td style="width: 36.0289%;height: 21px">nc&#104;&#97;&#x6e;&#x64;&#x40;&#x69;ee&#101;&#46;&#x6f;&#x72;&#x67;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Member at Large</td>
+<td style="width: 36.0289%">Har Dayal</td>
+<td style="width: 36.0289%">&#x64;&#x61;&#121;&#97;l&#x68;&#x61;&#x72;&#64;&#103;m&#x61;&#x69;&#x6c;&#46;&#99;o&#x6d;</td>
+</tr>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Member at Large</td>
+<td style="width: 36.0289%;height: 21px">Alfredo Tan</td>
+<td style="width: 36.0289%;height: 21px">&#116;&#x61;&#110;&#x40;&#102;&#x64;&#117;&#x2e;&#101;&#x64;&#117;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>2021-2022 Executive Committee</h2>
+<table style="width: 100.072%;height: 231px">
+<tbody>
+<tr style="height: 21px">
+<td style="width: 27.9422%;height: 21px">Position</td>
+<td style="width: 36.0289%;height: 21px">Person</td>
+<td style="width: 36.0289%;height: 21px">Contact Information</td>
+</tr>
+<tr>
+<td>Chair</td>
+<td>Ajay K. Poddar</td>
+<td>a&#107;&#112;&#x6f;&#x64;&#x64;a&#114;&#64;&#x69;&#x65;&#x65;e&#46;&#111;&#x72;&#x67;</td>
+</tr>
+<tr>
+<td>First Vice-Chair</td>
+<td>Hong Zhao</td>
+<td>&#122;&#x68;&#97;&#x6f;&#64;&#x66;&#100;&#x75;&#46;&#x65;d&#x75;</td>
+</tr>
+<tr>
+<td>Second Vice-Chair</td>
+<td>Emad Farag</td>
+<td>&#101;&#x6e;&#102;&#x61;&#114;&#x61;&#103;&#x40;&#105;&#x65;&#101;&#x65;&#46;&#x6f;&#114;&#x67;</td>
+</tr>
+<tr>
+<td>Junior Past Chair</td>
+<td>Yu-Dong Yao</td>
+<td>&#x79;&#x75;&#45;d&#x6f;&#x6e;&#103;&#46;y&#x61;&#x6f;&#64;&#115;t&#x65;&#x76;&#101;ns&#x2e;&#x65;&#100;u</td>
+</tr>
+<tr>
+<td>Senior Past Chair</td>
+<td>Kalyan Mondal</td>
+<td>&#x6d;&#x6f;&#x6e;&#x64;&#x61;&#x6c;&#x40;&#x66;&#x64;&#x75;&#x2e;&#101;&#100;&#117;</td>
+</tr>
+<tr>
+<td>Secretary</td>
+<td>Adriaan J. van Wijngaarden</td>
+<td>&#97;&#x76;&#119;&#x40;&#105;&#x65;&#101;&#x65;&#46;&#x6f;&#114;&#x67;</td>
+</tr>
+<tr>
+<td>Treasurer</td>
+<td>Avimanyou Vatsa</td>
+<td>&#97;&#x76;&#x61;t&#115;&#x61;&#64;&#102;&#x64;u&#46;&#x65;d&#117;</td>
+</tr>
+<tr>
+<td>Member at Large</td>
+<td>Anisha Apte</td>
+<td>&#x61;&#110;i&#x73;&#x68;&#97;_&#x61;&#112;t&#x65;&#x40;&#105;e&#x65;&#101;&#46;&#x6f;&#x72;&#103;</td>
+</tr>
+<tr>
+<td>Member at Large</td>
+<td>Kirit Dixit</td>
+<td>&#x6b;&#x64;&#x69;&#x78;&#x69;&#x74;&#x40;&#x69;&#101;&#101;&#101;&#46;&#111;&#114;&#103;</td>
+</tr>
+<tr>
+<td>Member at Large</td>
+<td>Har Dayal</td>
+<td>&#100;&#x61;y&#97;&#x6c;h&#97;&#x72;&#64;&#103;&#x6d;a&#105;&#x6c;&#46;&#99;&#x6f;m</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+` }} />
+    </article>
+  );
+}

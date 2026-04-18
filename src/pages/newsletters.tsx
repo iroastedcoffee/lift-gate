@@ -1,0 +1,300 @@
+// Auto-generated from WordPress
+export default function Post_newsletters() {
+  return (
+    <article className="max-w-3xl mx-auto px-6 py-12">
+      <header className="mb-8">
+        <h1 className="text-3xl font-bold tracking-tight">Newsletters</h1>
+        <time className="text-sm text-gray-500">2011-11-02</time>
+      </header>
+      <div className="prose prose-lg" dangerouslySetInnerHTML={{ __html: `<div class="wpb-content-wrapper"><h3>2026</h3>
+<ul>
+<li>March [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2026/03/IEEE_NNJ_Newsletter_2026_MAR_03.pdf">pdf</a>]</li>
+<li>February [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2026/03/IEEE_NNJ_Newsletter_2026_FEB_02.pdf">pdf</a>]</li>
+<li>January [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2026/01/IEEE_NNJ_Newsletter_2026_JAN_01.pdf">pdf</a>]</li>
+<li>2026 Section Roster [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/08/Executive-Committee.pdf">pdf</a>]</li>
+</ul>
+<h3>2025</h3>
+<ul>
+<li>November &#8211; December [<a href="https://drive.google.com/file/d/1JD5w_r8cxcaeDKz38EV1aNXxXtT-LQ9q/view?usp=share_link">pdf</a>]</li>
+<li>October [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/10/IEEE_NNJ_Newsletter_2025_OCT_09.pdf">pdf</a>]</li>
+<li>September [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/09/IEEE_NNJ_Newsletter_2025_SEPT_08.pdf">pdf</a>]</li>
+<li>August [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/08/IEEE_NNJ_Newsletter_2025_AUG_07.pdf">pdf</a>]</li>
+<li>June-July [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/07/IEEE_NNJ_Newsletter_2025_JUN_JULY_06.pdf">pdf]</a></li>
+<li>May [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/05/IEEE_NNJ_Newsletter_2025_MAY_05.pdf">pdf</a>]</li>
+<li>April [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/04/IEEE_NNJ_Newsletter_2025_APR_04.pdf">pdf</a>]</li>
+<li>March [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/03/IEEE_NNJ_Newsletter_2025_MAR02.pdf">pdf</a>]</li>
+<li>February [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/02/IEEE_NNJ_Newsletter_2025_FEB02.pdf">pdf</a>]</li>
+<li>January [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/01/IEEE_NNJ_Newsletter_2025_JAN01.pdf">pdf</a>]</li>
+<li>2025 Section Roster [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2025/08/Executive-Committee.pdf">pdf</a>]</li>
+</ul>
+<h3>2024</h3>
+<ul>
+<li>November/December [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/12/IEEE_NNJ_Newsletter_2024_NOV_DEC_10.pdf">pdf</a>]</li>
+<li>October [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/10/IEEE_NNJ_Newsletter_2024_OCT_09.pdf">pdf</a>]</li>
+<li>September [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/09/IEEE_NNJ_Newsletter_2024_SEPT_08.pdf">pdf</a>]</li>
+<li>August [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/08/IEEE_NNJ_Newsletter_2024_AUG_07.pdf">pdf</a>]</li>
+<li>June-July [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/06/IEEE_NNJ_Newsletter_2024_JUNE_JULY_06.pdf">pdf</a>]</li>
+<li>May [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/05/IEEE_NNJ_Newsletter_2024_MAY_05.pdf">pdf</a>]</li>
+<li>April [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/04/IEEE_NNJ_Newsletter_2024_APR_04.pdf">pdf</a>]</li>
+<li>March [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/03/IEEE_NNJ_Newsletter_2024_MAR_03.pdf">pdf</a>]</li>
+<li>February [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/02/IEEE_NNJ_Newsletter_2024_FEB_13.pdf">pdf</a>]</li>
+<li>January [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2024/01/IEEE_NNJ_Newsletter_2024_JAN_01.pdf">pdf</a>]</li>
+</ul>
+<h3>2023</h3>
+<ul>
+<li>November/December [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/11/IEEE_NNJ_Newsletter_2023_10_NOV_DEC.pdf">pdf</a>]</li>
+<li>October [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/10/IEEE-North-Jersey-Section-Newsletter-Oct-2023.pdf">pdf</a>]</li>
+<li>September [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/09/IEEE_NNJ_Newsletter_2023_07_SEPTEMBER.pdf">pdf</a>]</li>
+<li>August [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/08/IEEE_NNJ_Newsletter_2023_07_AUGUST.pdf">pdf</a>]</li>
+<li>June-July [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/06/IEEE_NNJ_Newsletter_2023_6_June_July.pdf">pdf</a>]</li>
+<li>May [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/05/IEEE_NNJ_Newsletter_2023_5_May.pdf">pdf</a>]</li>
+<li>April [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/04/IEEE_NNJ_Newsletter_2023_4_Apr.pdf">pdf</a>]</li>
+<li>March [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/03/IEEE_NNJ_Newsletter_2023_3_Mar.pdf">pdf</a>]</li>
+<li>February [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/02/IEEE_NNJ_Newsletter_2023_2_Feb.pdf">pdf</a>]</li>
+<li>January [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2023/02/IEEE_NNJ_Newsletter_2023_1_Jan.pdf">pdf</a>]</li>
+</ul>
+<h3>2022</h3>
+<ul>
+<li>December [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/12/IEEE_NNJ_Newsletter_2022_11_Dec.pdf">pdf</a>]</li>
+<li>November [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/12/IEEE_NNJ_Newsletter_2022_10_Nov.pdf">pdf]</a></li>
+<li>October [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/10/IEEE_NNJ_Newsletter_2022_9_Oct.pdf">pdf</a>]</li>
+<li>September [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/09/IEEE_NNJ_Newsletter_2022_8_September.pdf">pdf</a>]</li>
+<li>August [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/08/IEEE_NNJ_Newsletter_2022_7_August.pdf">pdf</a>]</li>
+<li>June-July [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/07/IEEE_NNJ_Newsletter_2022_6_June-July.pdf">pdf</a>]</li>
+<li>May [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/05/IEEE_NNJ_Newsletter_2022_5_May.pdf">pdf</a>]</li>
+<li>April [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/04/IEEE_NNJ_Newsletter_2022_4_April.pdf">pdf</a>]</li>
+<li>March [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/03/IEEE_NNJ_Newsletter_2022_3_March.pdf">pdf</a>]</li>
+<li>February [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/02/IEEE_NNJ_Newsletter_2022_2_Feb.pdf">pdf</a>]</li>
+<li>January [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2022/01/IEEE_NNJ_Newsletter_2022_1_Jan.pdf">pdf</a>]</li>
+</ul>
+<h3>2021</h3>
+<ul>
+<li>November/December [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/12/IEEE_NNJ_Newsletter_2021_10_Nov_Dec.pdf">pdf</a>]</li>
+<li>October [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/10/IEEE_NNJ_Newsletter_2021_07_OCTOBER.pdf">pdf</a>]</li>
+<li>September <a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/09/IEEE_NNJ_Newsletter_2021_07_SEPTEMBER.pdf">[pdf</a>]</li>
+<li>August [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/08/IEEE_NNJ_Newsletter_2021_07_AUGUST.pdf">pdf</a>]</li>
+<li>June/July [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/06/IEEE-North-Jersey-June-July-2021-Newsletter.pdf">pdf</a>]</li>
+<li>May [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/05/IEEE_NNJ_Newsletter_2021_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/04/IEEE_NNJ_Newsletter_2021_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2021_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2021_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2021_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2020</h3>
+<ul>
+<li>December [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_11_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_10_NOC.pdf">pdf</a>]</li>
+<li>October [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_09_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2029_08_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_07_AUG.pdf">pdf</a>]</li>
+<li>June/July [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_06_JUN_JUL.pdf">pdf</a>]</li>
+<li>May [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2020_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2019</h3>
+<ul>
+<li>December [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_11_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_10_NOC.pdf">pdf</a>]</li>
+<li>October [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_09_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_08_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_07_AUG.pdf">pdf</a>]</li>
+<li>June/July [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_06_JUN_JUL.pdf">pdf</a>]</li>
+<li>May [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2019_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2018</h3>
+<ul>
+<li>December [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2018_11_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2018_10_NOC.pdf">pdf</a>]</li>
+<li>October [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2018_09_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="https://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2021/03/IEEE_NNJ_Newsletter_2018_08_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/08/IEEE_NNJ_Newsletter_2018_07_AUG.pdf">pdf</a>]</li>
+<li>June/July [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/08/IEEE_NNJ_Newsletter_2018_06_JUN_JUL.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/08/IEEE_NNJ_Newsletter_2018_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/04/IEEE_NNJ_Newsletter_2018_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2018_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2018_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2018_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2017</h3>
+<ul>
+<li>November/December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2017_09_NOV_DEC.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2017_08_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2017_07_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2017_06_AUG.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2017_04_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2017_03_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2017_02_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2018/03/IEEE_NNJ_Newsletter_2017_01_FEB.pdf">pdf</a>]</li>
+</ul>
+<h3>2015</h3>
+<ul>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2015_04_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2015_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2015_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2015_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2015_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2014</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_11_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_10_NOV.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_09_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_08_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_07_AUG.pdf">pdf</a>]</li>
+<li>June/July [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_06_JUN_JUL.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2014_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2013</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_11_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_10_NOV.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_09_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_08_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_07_AUG.pdf">pdf</a>]</li>
+<li>June/July [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_06_JUN-JUL.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2013_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2012</h3>
+<ul>
+<li>November/December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2012_10_NOV_DEC.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2012_09_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2012_08_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2012_07_AUG.pdf">pdf</a>]</li>
+<li>June [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2012_06_JUN.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2012_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2012/04/IEEE_NNJ_Newsletter_2012_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2012_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2012_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2012_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2011</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_08_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_07_NOV.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_06_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_05_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_04_AUG.pdf">pdf</a>]</li>
+<li>June/July [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_03_JUN_JUL.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_02_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_01_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_00_MAR.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/news/newsletters/files/2011/11/IEEE_NNJ_Newsletter_2011_00_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2010</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_12.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_11.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_10.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_09.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_08.pdf">pdf</a>]</li>
+<li>June [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_06.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_05.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_04.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_03.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_02.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2010_01.pdf">pdf</a>]</li>
+</ul>
+<h3>2009</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_12.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_11.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_10.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_09.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_08.pdf">pdf</a>]</li>
+<li>June [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_06.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_05.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_04.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_03.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_02.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2009_01.pdf">pdf</a>]</li>
+</ul>
+<h3>2008</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_12.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_11.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_10.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_09.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_08.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_05.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_04.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_03.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_02.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/Newsletter_2008_01.pdf">pdf</a>]</li>
+</ul>
+<h3>2007</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_10_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_09_NOV.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_08_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_07_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_06_AUG.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2007_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2006</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_10_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_09_NOV.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_08_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_07_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_06_AUG.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2006_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2005</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_10_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_09_NOV.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_08_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_07_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_06_AUG.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2005_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<h3>2004</h3>
+<ul>
+<li>December [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_10_DEC.pdf">pdf</a>]</li>
+<li>November [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_09_NOV.pdf">pdf</a>]</li>
+<li>October [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_08_OCT.pdf">pdf</a>]</li>
+<li>September [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_07_SEP.pdf">pdf</a>]</li>
+<li>August [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_06_AUG.pdf">pdf</a>]</li>
+<li>May [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_05_MAY.pdf">pdf</a>]</li>
+<li>April [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_04_APR.pdf">pdf</a>]</li>
+<li>March [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_03_MAR.pdf">pdf</a>]</li>
+<li>February [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_02_FEB.pdf">pdf</a>]</li>
+<li>January [<a href="http://r1.ieee.org/northjersey/wp-content/uploads/sites/23/2011/11/IEEE_NNJ_Newsletter_2004_01_JAN.pdf">pdf</a>]</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[/vc_column_text][/vc_column][/vc_row]</p>
+</div>` }} />
+    </article>
+  );
+}

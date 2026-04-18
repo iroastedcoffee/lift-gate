@@ -1,0 +1,222 @@
+// Auto-generated from WordPress
+export default function Post_2013_ap_mtt_symposium() {
+  return (
+    <article className="max-w-3xl mx-auto px-6 py-12">
+      <header className="mb-8">
+        <h1 className="text-3xl font-bold tracking-tight">2013 AP-MTT Symposium</h1>
+        <time className="text-sm text-gray-500">2013-08-29</time>
+      </header>
+      <div className="prose prose-lg" dangerouslySetInnerHTML={{ __html: `<h2>28th Annual Symposium and Mini-Show</h2>
+<p align="justify">The AP/MTT Joint Chapter holds their 28th Annual Symposium and Mini-Show on Thursday October 3, 2013 in the Hanover Manor in Hanover, NJ. The program consists of technical sessions from 8:50 am until 4:40 pm as well as a mini-show that features the latest products (9:30 am until 4:30 pm).</p>
+<p align="justify">The symposium program is as follows:</p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>08:50-09:00</td>
+<td><b>Opening Remarks</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Dr. George Kannell, <em>LGS Bell Labs</em></td>
+</tr>
+<tr>
+<td></td>
+<td>Technical Symposium Chair</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09:00-10:00</td>
+<td><b>Implantable Wireless Medical Devices and Systems</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Dr. J.C. Chiao, <em>Professor</em>, University of Texas at Arlington</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10:00-10:30</td>
+<td><b>Break &#8211; Mini-Show Exhibition</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10:30-11:30</td>
+<td><b>What&#8217;s New in Digital Pre-Distortion</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Dr. John Wood, <em>Editor-in-Chief</em>, IEEE Microwave Magazine</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11:30-12:15</td>
+<td><b>The State-of-the-Art: Metamaterial Mobius Reconator Oscillator,</b></td>
+</tr>
+<tr>
+<td></td>
+<td><b>Applications in Modern Communication Systems</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Dr. Ulrich Rohde, <em>Chairman</em>, Synergy Microwave Corp.</td>
+</tr>
+<tr>
+<td></td>
+<td>Dr. Ajay Poddar, <em>Chief Scientist</em>, Synergy Microwave Corp.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12:15-13:15</td>
+<td><b>Lunch &#8211; Mini-Show Exhibition</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13:15-14:00</td>
+<td><b>A Review of GaN Transistors and MMCs for Very High Power Applications</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Raymond Pengelly, <em>Strategic Business Development Manager,</em> Cree RF</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14:00-14:30</td>
+<td><b>Break &#8211; Mini-Show Exhibition</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14:30-15:30</td>
+<td><b>Microwave Photonics</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Dr. Jianping Yao, <em>Professor,</em> University of Ottawa</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15:30-16:30</td>
+<td><b>Demonstration of the Future of Electromagnetics, Antennas &amp; Propagation</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Prof. Michael Underhill, <em>CEO</em>, Underhill Research Ltd</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16:30-16:40</td>
+<td><b>Closing Remarks</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Kirit Dixit, Micron Sales</td>
+</tr>
+<tr>
+<td></td>
+<td><em>Symposium and Exhibition Chair</em></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p align="justify">Registration is on-site. Further details can be found in the IEEE North Jersey Newsletter and the website</p>
+<p align="center"> <a href="http://r1.ieee.org/northjersey/events/2013-ap-mtt-symposium">http://r1.ieee.org/northjersey/events/2013-ap-mtt-symposium</a></p>
+<p align="justify"> All are welcome. IEEE membership is not required. Registration is<br />
+on-site. There is no charge to attend the symposium or mini-show. A complementary<br />
+breakfast will be provided and lunch is included for all.</p>
+<p align="justify"> For further information, please contact:</p>
+<table>
+<tbody>
+<tr>
+<td>Chair/Exhibition</td>
+<td>Kirit Dixit</td>
+<td>201-669-7599</td>
+<td>&#x6b;&#100;i&#x78;&#x69;&#116;&#64;&#x6d;&#x69;&#99;r&#x6f;&#99;o&#x6d;&#x73;&#97;l&#x65;&#x73;&#46;c&#x6f;&#109;</td>
+</tr>
+<tr>
+<td>Chair MTT/APS Symposium</td>
+<td>Har Dayal</td>
+<td>973-633-4618</td>
+<td>&#x64;a&#x79;&#97;&#x6c;&#104;a&#x72;&#64;&#x67;&#109;&#x61;&#105;l&#x2e;&#99;&#x6f;&#109;</td>
+</tr>
+<tr>
+<td>Technical Program Chair</td>
+<td>George Kannell</td>
+<td>973-437-9990</td>
+<td>&#x67;&#x6b;&#x6b;&#64;&#108;gs&#x69;&#x6e;&#x6e;&#x6f;&#118;&#97;ti&#x6f;&#x6e;&#x73;&#46;&#99;&#111;m</td>
+</tr>
+<tr>
+<td>Publicity</td>
+<td>Arthur Greenberg</td>
+<td></td>
+<td>&#97;&#x2e;h&#x2e;g&#114;&#x65;&#101;&#x6e;b&#101;&#x72;&#103;&#x40;i&#x65;&#x65;&#101;&#x2e;o&#x72;g</td>
+</tr>
+<tr>
+<td>Event/Location Coordinator</td>
+<td>Ken Oexle</td>
+<td>973-386-1156</td>
+<td></td>
+</tr>
+<tr>
+<td>MTT/AP Chapter Chair</td>
+<td>Dr. Ajay Poddar</td>
+<td>201-560-3806</td>
+<td>&#x61;&#x6b;&#x70;&#x6f;&#x64;&#x64;&#x61;&#x72;&#x40;&#x73;&#x79;&#x6e;&#x65;&#x72;&#x67;&#x79;&#x6d;&#x77;&#x61;&#x76;&#x65;&#x2e;&#x63;&#x6f;&#x6d;</td>
+</tr>
+<tr>
+<td>MTT/AP Chapter Vice-Chair</td>
+<td>Prof. Edip Niver</td>
+<td>973-596-3542</td>
+<td>&#x65;&#x64;&#105;p&#x2e;&#x6e;&#105;ve&#x72;&#x40;&#110;j&#x69;&#x74;&#46;&#101;d&#x75;</td>
+</tr>
+<tr>
+<td>Event Coordinator</td>
+<td>Russell Pepe</td>
+<td>201-960-6796</td>
+<td>&#x72;&#112;e&#x70;&#101;&#64;&#x61;&#116;t&#x2e;&#x6e;&#101;&#x74;</td>
+</tr>
+</tbody>
+</table>
+<p align="justify"> Special thanks to Dru Reynolds of Reynolds, Recruiters &amp; NJ Coast Section for her invaluable assistance.</p>
+` }} />
+    </article>
+  );
+}

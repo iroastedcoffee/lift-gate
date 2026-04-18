@@ -1,0 +1,55 @@
+// Auto-generated from WordPress
+export default function Post_contact() {
+  return (
+    <article className="max-w-3xl mx-auto px-6 py-12">
+      <header className="mb-8">
+        <h1 className="text-3xl font-bold tracking-tight">Contact</h1>
+        <time className="text-sm text-gray-500">2021-05-04</time>
+      </header>
+      <div className="prose prose-lg" dangerouslySetInnerHTML={{ __html: `<div class="wpb-content-wrapper"><p>[vc_row][vc_column][vc_column_text]</p>
+<div class="forminator-ui forminator-custom-form forminator-custom-form-356997 forminator-design--material  forminator_ajax" data-forminator-render="0" data-form="forminator-module-356997" data-uid="69e2ea6f94601"></div>
+<form
+				id="forminator-module-356997"
+				class="forminator-ui forminator-custom-form forminator-custom-form-356997 forminator-design--material  forminator_ajax"
+				method="post"
+				data-forminator-render="0"
+				data-form-id="356997"
+				 data-color-option="default" data-design="material" data-grid="open" style="display: none;"
+				data-uid="69e2ea6f94601"
+			></p>
+<div role="alert" aria-live="polite" class="forminator-response-message forminator-error" aria-hidden="true"></div>
+<div class="forminator-row">
+<div id="name-1" class="forminator-field-name forminator-col forminator-col-6 ">
+<div class="forminator-field"><label for="forminator-field-name-1_69e2ea6f94601" id="forminator-field-name-1_69e2ea6f94601-label" class="forminator-label">First Name <span class="forminator-required">*</span></label><input type="text" name="name-1" value="" placeholder="E.g. John" id="forminator-field-name-1_69e2ea6f94601" class="forminator-input forminator-name--field" aria-required="true" autocomplete="name" /></div>
+</div>
+<div id="name-2" class="forminator-field-name forminator-col forminator-col-6 ">
+<div class="forminator-field"><label for="forminator-field-name-2_69e2ea6f94601" id="forminator-field-name-2_69e2ea6f94601-label" class="forminator-label">Last Name <span class="forminator-required">*</span></label><input type="text" name="name-2" value="" placeholder="E.g. John Doe" id="forminator-field-name-2_69e2ea6f94601" class="forminator-input forminator-name--field" aria-required="true" autocomplete="name" /></div>
+</div>
+</div>
+<div class="forminator-row">
+<div id="email-1" class="forminator-field-email forminator-col forminator-col-12 ">
+<div class="forminator-field"><label for="forminator-field-email-1_69e2ea6f94601" id="forminator-field-email-1_69e2ea6f94601-label" class="forminator-label">Email Address <span class="forminator-required">*</span></label><input type="email" name="email-1" value="" placeholder="E.g. jo&#104;&#110;&#64;&#100;&#x6f;&#x65;&#x2e;&#x63;&#x6f;m" id="forminator-field-email-1_69e2ea6f94601" class="forminator-input forminator-email--field" data-required="true" aria-required="true" autocomplete="email" /></div>
+</div>
+</div>
+<div class="forminator-row">
+<div id="text-1" class="forminator-field-text forminator-col forminator-col-12 ">
+<div class="forminator-field"><label for="forminator-field-text-1_69e2ea6f94601" id="forminator-field-text-1_69e2ea6f94601-label" class="forminator-label">Subject <span class="forminator-required">*</span></label><input type="text" name="text-1" value="" placeholder="" id="forminator-field-text-1_69e2ea6f94601" class="forminator-input forminator-name--field" data-required="1" /></div>
+</div>
+</div>
+<div class="forminator-row">
+<div id="textarea-1" class="forminator-field-textarea forminator-col forminator-col-12 ">
+<div class="forminator-field"><label for="forminator-field-textarea-1_69e2ea6f94601" id="forminator-field-textarea-1_69e2ea6f94601-label" class="forminator-label">Message <span class="forminator-required">*</span></label><textarea name="textarea-1" placeholder="Enter your message..." id="forminator-field-textarea-1_69e2ea6f94601" class="forminator-textarea" rows="6" style="--forminator-textarea-min-height:140px;" maxlength="360" ></textarea><span id="forminator-field-textarea-1_69e2ea6f94601-description" class="forminator-description"><span data-limit="360" data-type="characters" data-editor="">0 / 360</span></span></div>
+</div>
+</div>
+<p><input type="hidden" name="referer_url" value="" /></p>
+<div class="forminator-row forminator-row-last">
+<div class="forminator-col">
+<div class="forminator-field"><button class="forminator-button forminator-button-submit"><span>Send Message</span><span aria-hidden="true"></span></button></div>
+</div>
+</div>
+<p><input type="hidden" id="forminator_nonce" name="forminator_nonce" value="bfdc4f7e62" /><input type="hidden" name="_wp_http_referer" value="/northjersey/wp-json/wp/v2/pages?per_page=100" /><input type="hidden" name="form_id" value="356997"><input type="hidden" name="page_id" value="356998"><input type="hidden" name="form_type" value="default"><input type="hidden" name="current_url" value="https://r1.ieee.org/northjersey/contact/"><input type="hidden" name="render_id" value="0"><input type="hidden" name="action" value="forminator_submit_form_custom-forms"><label for="input_6" class="forminator-hidden" aria-hidden="true">Please do not fill in this field. <input id="input_6" type="text" name="input_6" value="" autocomplete="off"></label></form>
+<p>[/vc_column_text][/vc_column][/vc_row]</p>
+</div>` }} />
+    </article>
+  );
+}
